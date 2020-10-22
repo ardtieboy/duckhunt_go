@@ -1,4 +1,5 @@
-module golabgame
+module github.com/ardtieboy/duckhunt_go
+
 
 go 1.15
 

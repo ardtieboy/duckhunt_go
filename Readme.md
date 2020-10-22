@@ -4,11 +4,13 @@ Duck hunt game made in go with [ebiten](https://github.com/hajimehoshi/ebiten)
 
 Extra tools: [file2byteslice](https://github.com/hajimehoshi/file2byteslice)
 
+This was made during golab 2020.
+
 # Building
 
     go generate
     go build
-    go ./golabgame
+    go ./duckhunt_go
 
 # Running
 
